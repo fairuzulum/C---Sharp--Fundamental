@@ -1,0 +1,14 @@
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.exe
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.deps.json
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.runtimeconfig.json
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.dll
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\bin\Debug\net8.0\Fundamental.pdb
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.GeneratedMSBuildEditorConfig.editorconfig
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.AssemblyInfoInputs.cache
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.AssemblyInfo.cs
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.csproj.CoreCompileInputs.cache
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.dll
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\refint\Fundamental.dll
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.pdb
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.genruntimeconfig.cache
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\ref\Fundamental.dll
