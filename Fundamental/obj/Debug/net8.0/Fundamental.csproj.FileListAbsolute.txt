@@ -12,3 +12,4 @@ C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\refint\Fundamen
 C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.pdb
 C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.genruntimeconfig.cache
 C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\ref\Fundamental.dll
+C:\fairuz\UpSkilling\C#\Fundamental\Fundamental\obj\Debug\net8.0\Fundamental.sourcelink.json
